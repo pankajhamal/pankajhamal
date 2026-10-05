@@ -1,6 +1,6 @@
 # Hi, I'm Pankaj Hamal 👋
 
-**Junior Backend / Software Engineer** · Kathmandu, Nepal
+** Backend / Software Engineer** · Kathmandu, Nepal
 
 I build backend services with **Python, FastAPI, PostgreSQL, Redis and Celery**, with a focus on REST APIs, asynchronous workflows, webhooks and fintech payment integrations using **Rafiki** and the **Interledger Protocol (ILP)**. I'm interested in distributed systems, backend automation and scalable API integrations.
 
