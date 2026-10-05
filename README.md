@@ -6,7 +6,7 @@ I build backend services with **Python, FastAPI, PostgreSQL, Redis and Celery**,
 
 ## 💼 Experience
 
-**Junior Backend Engineer — [Nepal Internet Foundation](https://github.com/NIFN-2026)** · May 2026 – Present
+**Backend Engineer — [Nepal Internet Foundation](https://github.com/NIFN-2026)** · May 2026 – Present
 
 - Backend development for a fintech payment integration project using Python and FastAPI
 - Interoperable payment flows with open-source Rafiki and the Interledger Protocol (ILP)
