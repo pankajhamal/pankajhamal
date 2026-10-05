@@ -4,7 +4,7 @@
 
 I build backend services with **Python, FastAPI, PostgreSQL, Redis and Celery**, with a focus on REST APIs, asynchronous workflows, webhooks and fintech payment integrations using **Rafiki** and the **Interledger Protocol (ILP)**. I'm interested in distributed systems, backend automation and scalable API integrations.
 
-## 💼 Experience
+##  Experience
 
 **Backend Engineer — [Nepal Internet Foundation](https://github.com/NIFN-2026)** · May 2026 – Present
 
@@ -14,7 +14,7 @@ I build backend services with **Python, FastAPI, PostgreSQL, Redis and Celery**,
 - REST APIs, webhooks and service-to-service integrations
 - Docker and Linux deployments with Prometheus, Grafana and Loki for observability
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Area | Tools |
 | --- | --- |
@@ -24,7 +24,7 @@ I build backend services with **Python, FastAPI, PostgreSQL, Redis and Celery**,
 | Fintech | Rafiki, Interledger Protocol (ILP), Admin APIs, Webhook Events |
 | DevOps & Monitoring | Docker, Linux/Ubuntu, Git, GitHub, Prometheus, Grafana, Loki, Promtail |
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### [Double-Entry Ledger System](https://github.com/pankajhamal/Double_Entry_Ledger_System)
 `Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Redis` `Docker`
@@ -36,11 +36,11 @@ A backend ledger implementing double-entry accounting for financial transactions
 
 A full-stack platform for simulated stock trading and portfolio management, with APIs for stocks, orders, portfolios and transaction workflows.
 
-## 🎓 Education
+##  Education
 
 **Bachelor of Computer Engineering** — National Academy of Science and Technology, Pokhara University (expected 2026)
 
-## 📫 Contact
+##  Contact
 
 - Email: [pankajhamal0@gmail.com](mailto:pankajhamal0@gmail.com)
 - LinkedIn: [linkedin.com/in/pankajhamal](https://www.linkedin.com/in/pankajhamal/)
